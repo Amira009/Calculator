@@ -1,0 +1,51 @@
+body{
+    background-color:#FFFAF0;
+    
+  }
+  .calcul{
+    
+    background-color:#D3D3D3;
+    margin: auto;
+    margin-top:50px;
+    width:20%;
+    height:525px;
+    border-radius:8px;
+    text-align: center;
+    padding-top:20px;
+    box-shadow:2px 4px 2px #DEB887; 
+    
+  }
+  
+  #ecran{
+    
+    width:80%;
+    height:20%;
+    margin:9px;
+    text-align:right;
+    background-color:#F5F5F5;
+    border-color: #DEB887;
+    font-size:30px;
+    
+  }
+  
+  .btn{
+      height: 60px;
+      width: 60px;
+      border-color: #DEB887;
+      border-radius: 30px;
+      margin: 5px;
+      font-size: 20px;
+      cursor: pointer;
+      margin-top:25px
+    
+  }
+  
+  #amira{
+    background-color:#DEB887;
+  }
+  #amal{
+    background-color:#708090;
+  }
+  #tele{
+     background-color:#4682B4;
+  }
